@@ -1,6 +1,6 @@
 /******************************************************************************
  *   @file   cli_io.h
- *   @brief  UART abstraction and formatted output for the generic CLI.
+ *   @brief  IO abstraction and formatted output for the generic CLI.
  ******************************************************************************/
 
 #ifndef CLI_IO_H
