@@ -7,7 +7,7 @@ A very simple bare metal CLI framework for embedded development and hardware tes
 - Supports three types of commands: DO, READ and WRITE
 - Supports signed decimals and hexadecimals as parameters
 - In-framework parameter number checking
-- Compile-time selection of print backends: built-in / `vrpintf`
+- Compile-time selection of print backends: built-in / `vprintf`
 - Designated IO port layer
 - Fixed buffer and truncation of inputs
 - Blocking operation
