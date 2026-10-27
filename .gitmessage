@@ -1,0 +1,8 @@
+# <type>(<scope>): <subject>  (50 chars or less)
+
+# --- Body ---
+# Explain the what and why, not the how.
+
+# --- Footer ---
+# Closes #<issue-number>
+# BREAKING CHANGE: ...
