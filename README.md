@@ -29,7 +29,7 @@ Application-specific features are implemented only in `cli_app_cmds.h` / `cli_ap
 [name][terminator][params]
 ```
 Three characters are accepted as terminators.
-| Ending | Type | Example | Parameter Sensitivity |
+| Terminator | Type | Example | Parameter Sensitivity |
 |---|---|---|---|
 | `!` | DO | `exit!` | Not sensitive |
 | `?` | READ | `example_get?` | Sensitive |
